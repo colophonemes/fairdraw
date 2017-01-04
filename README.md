@@ -1,6 +1,6 @@
 # Fairdraw
 
-Node.js command-line tool for determining a fair ordering of participants. Use as an overengineered way to drawing lots/short straws.
+Node.js command-line tool for determining a fair ordering of participants. Use as an overengineered way to draw lots/short straws.
 
 Uses the [NIST Randomness beacon](https://beacon.nist.gov/home) (refreshed every minute) for maximum fairness to ensure nobody gets mad about someone gaming the system.
 
