@@ -1,0 +1,19 @@
+{
+  "name": "fairdraw",
+  "version": "0.1.0",
+  "description": "Uses the NIST beacon to randomly draw lots",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --"
+  },
+  "author": "Sam Deere <dev@colophonemes.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^3.0.1",
+    "bluebird": "^3.4.7",
+    "inquirer": "^2.0.0",
+    "needle": "^1.4.3",
+    "ordinal": "0.0.4",
+    "xml2js": "^0.4.17"
+  }
+}
